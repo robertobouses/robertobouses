@@ -52,19 +52,14 @@ As a native Spanish speaker with competencies in English and Portuguese, I am we
 ✅ Entrepreneurial & Business Management Experience  
 ✅ Effective Communication in Multicultural Teams  
 
-## 📫 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/robertobouses/)  
-
-⭐ **Explore my repositories and projects on GitHub!**
 
 ## 📫 Let's Connect   
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/robertobouses/)  
-![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=robertobouses@gmail.com)  
 
 
 ---
  
 ✨ **Explore my repositories and projects on GitHub!** 🚀⭐  
-🔗 [**GitHub Profile**](https://github.com/robertobouses?tab=repositories)
+🔗 [**GitHub Repos**](https://github.com/robertobouses?tab=repositories)
 

@@ -7,8 +7,9 @@ My experience managing a business and working in administrative roles has streng
 
 As a native Spanish speaker with competencies in English and Portuguese, I am well-equipped to work in multicultural environments.  
 
+<br><br>
 
-## 💻 Skills:
+## 💻 Skills
 <a href="https://golang.org"><img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" height="30"></a>
 <a href="https://www.mysql.com"><img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=MySQL&logoColor=white" height="30"></a>
 <a href="https://www.postgresql.org"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" height="30"></a>
@@ -20,6 +21,7 @@ As a native Spanish speaker with competencies in English and Portuguese, I am we
 <a href="https://dbeaver.io"><img src="https://img.shields.io/badge/DBeaver-4E4B5C?style=flat-square&logo=dbeaver&logoColor=white" height="30"></a>
 <a href="https://slack.com"><img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" height="30"></a>
 
+<br><br>
 
 ## 📊 GitHub Stats  
 ![GitHub Commits Graph](https://ghchart.rshah.org/robertobouses)
@@ -31,7 +33,7 @@ As a native Spanish speaker with competencies in English and Portuguese, I am we
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=robertobouses&row=1&column=6&margin-w=15&theme=flat)
 
 
-
+<br><br>
 
 ## 🎓 Education  
 
@@ -52,6 +54,7 @@ As a native Spanish speaker with competencies in English and Portuguese, I am we
 ✅ Entrepreneurial & Business Management Experience  
 ✅ Effective Communication in Multicultural Teams  
 
+<br><br> 
 
 ## 📫 Let's Connect   
 

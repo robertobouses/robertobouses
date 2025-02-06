@@ -26,9 +26,8 @@ As a native Spanish speaker with competencies in English and Portuguese, I am we
 ## 📊 GitHub Stats  
 ![GitHub Commits Graph](https://ghchart.rshah.org/robertobouses)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robertobouses&layout=compact)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=robertobouses&show_icons=true&theme=discord)
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robertobouses&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=robertobouses&show_icons=true&theme=discord) |
+|---------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=robertobouses&row=1&column=6&margin-w=15&theme=flat)
 

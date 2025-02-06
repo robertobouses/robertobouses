@@ -9,18 +9,16 @@ As a native Spanish speaker with competencies in English and Portuguese, I am we
 
 
 ## 💻 Skills:
-
-[![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://golang.org)
-[![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=MySQL&logoColor=white)](https://www.mysql.com)
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org)
-[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com)
-[![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)](https://vuejs.org)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com)
-[![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)](https://www.postman.com)
-[![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
-[![DBeaver](https://img.shields.io/badge/-DBeaver-4E4B5C?style=flat-square&logo=dbeaver&logoColor=white)](https://dbeaver.io)
-[![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white)](https://slack.com)
-
+<a href="https://golang.org"><img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" height="30"></a>
+<a href="https://www.mysql.com"><img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=MySQL&logoColor=white" height="30"></a>
+<a href="https://www.postgresql.org"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" height="30"></a>
+<a href="https://www.docker.com"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="30"></a>
+<a href="https://vuejs.org"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" height="30"></a>
+<a href="https://github.com"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="30"></a>
+<a href="https://www.postman.com"><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" height="30"></a>
+<a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" height="30"></a>
+<a href="https://dbeaver.io"><img src="https://img.shields.io/badge/DBeaver-4E4B5C?style=flat-square&logo=dbeaver&logoColor=white" height="30"></a>
+<a href="https://slack.com"><img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" height="30"></a>
 
 
 ## 📊 GitHub Stats  
@@ -31,6 +29,7 @@ As a native Spanish speaker with competencies in English and Portuguese, I am we
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=robertobouses&show_icons=true&theme=discord)
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=robertobouses&row=1&column=6&margin-w=15&theme=flat)
+
 
 
 
@@ -57,4 +56,15 @@ As a native Spanish speaker with competencies in English and Portuguese, I am we
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/robertobouses/)  
 
 ⭐ **Explore my repositories and projects on GitHub!**
+
+## 📫 Let's Connect   
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/robertobouses/)  
+![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=robertobouses@gmail.com)  
+
+
+---
+ 
+✨ **Explore my repositories and projects on GitHub!** 🚀⭐  
+🔗 [**GitHub Profile**](https://github.com/robertobouses?tab=repositories)
 

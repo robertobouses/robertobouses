@@ -31,7 +31,6 @@ As a native Spanish speaker with competencies in English and Portuguese, I am we
 |---------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=robertobouses&row=1&column=6&margin-w=33&theme=flat)
-ss
 
 <br><br>
 

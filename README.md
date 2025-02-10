@@ -42,7 +42,7 @@ As a native Spanish speaker with competencies in English and Portuguese, I am we
 | **Industrial Electronic Engineering**       | Escuela de Ingeniería Industrial (Universidad de Vigo)   |
 | **Go Programming Language**                | Great Learning                   |
 | **Technician in Administration and Finance**| IES García Barbón                |
-| **CPA: Programming Essentials in C++**     | Cisco Networking Academy         |
+
 
 ## 🌍 Languages  
 🇪🇸 Spanish (Native) | 🇬🇧 English (B1) | 🇵🇹 Portuguese (Intermediate)  

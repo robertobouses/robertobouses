@@ -60,7 +60,7 @@ As a native Spanish speaker with competencies in English and Portuguese, I am we
 ## 📫 Let's Connect   
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/robertobouses/)  
-https://exercism.org/profiles/robertobouses
+[![Exercism](https://img.shields.io/badge/Exercism-Profile-blueviolet?logo=exercism)](https://exercism.org/profiles/robertobouses)
 
 ---
  

@@ -1,5 +1,5 @@
 # 🧑‍💼 About Me  
-o
+
 **Junior Software Developer**  
 Developer with a background in administration and entrepreneurial experience. I have intermediate skills in Golang and practical knowledge in SQL, PostgreSQL, and Docker, as well as basic proficiency in Vue.js.  
 

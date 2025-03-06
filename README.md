@@ -1,7 +1,6 @@
 # 🧑‍💼 About Me  
 
-**Junior Software Developer**  
-Developer with a background in administration and entrepreneurial experience. I have intermediate skills in Golang and practical knowledge in SQL, PostgreSQL, and Docker, as well as basic proficiency in Vue.js.  
+Hi, I'm a Junior Software Developer with a background in administration and a passion for problem-solving. I have intermediate experience with Golang and practical knowledge of SQL, PostgreSQL, and Docker. I also have basic experience with Vue.js.
 
 My experience managing a business and working in administrative roles has strengthened my ability to analyze data and optimize processes, along with enhancing my decision-making skills. These competencies are directly applicable to software development. I am prepared to take on challenges in a junior developer role.
 

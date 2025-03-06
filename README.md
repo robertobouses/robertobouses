@@ -1,4 +1,4 @@
-# 🧑‍💼 About Me  
+# 🧑‍💼 A bit about me  
 
 Hi, I'm a Junior Software Developer with a background in administration and a passion for problem-solving. I have intermediate experience with Golang, along with practical knowledge of SQL, PostgreSQL, Docker, and basic experience with Vue.js.
 

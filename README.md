@@ -1,10 +1,12 @@
 # 🧑‍💼 About Me  
 
-Hi, I'm a Junior Software Developer with a background in administration and a passion for problem-solving. I have intermediate experience with Golang and practical knowledge of SQL, PostgreSQL, and Docker. I also have basic experience with Vue.js.
+Hi, I'm a Junior Software Developer with a background in administration and a passion for problem-solving. I have intermediate experience with Golang, along with practical knowledge of SQL, PostgreSQL, Docker, and basic experience with Vue.js.
 
-My experience managing a business and working in administrative roles has strengthened my ability to analyze data and optimize processes, along with enhancing my decision-making skills. These competencies are directly applicable to software development. I am prepared to take on challenges in a junior developer role.
+My experience in business management and administrative roles has enhanced my ability to analyze data, optimize processes, and make informed decisions—skills I apply directly in software development. I'm eager to take on new challenges in a junior developer role.
 
-As a native Spanish speaker with competencies in English and Portuguese, I am well-equipped to work in multicultural environments.  
+As a native Spanish speaker with proficiency in English and Portuguese, I'm well-equipped to thrive in multicultural environments.
+
+
 
 <br><br>
 

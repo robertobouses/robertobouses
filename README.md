@@ -21,6 +21,11 @@ As a native Spanish speaker with proficiency in English and Portuguese, I'm well
 <a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" height="30"></a>
 <a href="https://dbeaver.io"><img src="https://img.shields.io/badge/DBeaver-4E4B5C?style=flat-square&logo=dbeaver&logoColor=white" height="30"></a>
 <a href="https://slack.com"><img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" height="30"></a>
+<a href="https://www.markdownguide.org"><img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" height="30"></a>
+<a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" height="30"></a>
+<a href="https://swagger.io/"><img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" height="30"></a>
+<a href="https://www.linux.org"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" height="30"></a>
+
 
 <br><br>
 

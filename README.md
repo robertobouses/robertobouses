@@ -12,10 +12,7 @@ As a native Spanish speaker with proficiency in English and Portuguese, I'm well
 
 ## 💻 Skills
 <a href="https://golang.org"><img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" height="30"></a>
-<a href="https://www.java.com">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" height="30">
-</a>
-
+<a href="https://www.java.com"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" height="30"></a>
 <a href="https://www.mysql.com"><img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=MySQL&logoColor=white" height="30"></a>
 <a href="https://www.postgresql.org"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" height="30"></a>
 <a href="https://www.docker.com"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="30"></a>

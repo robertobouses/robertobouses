@@ -36,16 +36,16 @@ As a native Spanish speaker with proficiency in English and Portuguese, I'm well
 <br><br>
 
 ## 📊 GitHub Stats  
+
 <img src="https://ghchart.rshah.org/robertobouses" width="825" />
 
-
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robertobouses&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=robertobouses&show_icons=true&theme=discord) |
-|---------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
+| [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robertobouses&layout=compact&langs_count=8&theme=tokyonight&hide=html,css,scss)](https://github.com/robertobouses) | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=robertobouses&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/robertobouses) |
+|-----------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=robertobouses&row=1&column=6&margin-w=33&theme=flat)
 
-
 <br><br>
+
 
 ## 🎓 Education  
 

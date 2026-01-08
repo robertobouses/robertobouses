@@ -30,6 +30,18 @@ As a native Spanish speaker with proficiency in English and Portuguese, I'm well
 <a href="https://www.linux.org"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" height="30"></a>
 <a href="https://www.atlassian.com/software/jira"><img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" height="30"></a>
 <a href="https://www.atlassian.com/software/confluence"><img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white" height="30"></a>
+<a href="https://mattermost.com">
+  <img src="https://img.shields.io/badge/Mattermost-0058CC?style=flat-square&logo=mattermost&logoColor=white" height="30">
+</a>
+<a href="https://gitea.io">
+  <img src="https://img.shields.io/badge/Gitea-609926?style=flat-square&logo=gitea&logoColor=white" height="30">
+</a>
+<a href="https://www.openproject.org">
+  <img src="https://img.shields.io/badge/OpenProject-0770B8?style=flat-square&logo=openproject&logoColor=white" height="30">
+</a>
+<a href="https://en.wikipedia.org/wiki/Wiki">
+  <img src="https://img.shields.io/badge/Wiki-000000?style=flat-square&logo=wikipedia&logoColor=white" height="30">
+</a>
 
 
 
